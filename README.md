@@ -1,6 +1,6 @@
 Welcome to my final project repository! Here is a guide to what's inside:
 
-The **current** folder holds the final versions of content for my game: the game map, chaarcter guide, and the game itself.
+The **current** folder holds the final versions of content for my game: the game map, character guide, and the game itself.
 
 The **game pitch** folder holds the materials I made back before my game pitch for HW7.
 
